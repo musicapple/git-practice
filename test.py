@@ -6,4 +6,7 @@ print("five")
 print("sixsense")
 print("i'm test1 hi")
 print("nice to meet you")
+print("test중입니다. 무엇을? push가 뜨는지 안뜨는지")
 print("i'm test2 hello")
+
+print("hello, jun")
