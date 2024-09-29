@@ -1,6 +1,7 @@
-print("hello world")
+print("hello world, happy day")
 print("hi")
 print("stupid")
 print("four")
 print("five")
 print("sixsense")
+print("i'm test2 hello")
